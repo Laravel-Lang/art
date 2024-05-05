@@ -1,2 +1,3 @@
-# art
-Laravel-Lang logo and other artwork
+# Laravel-Lang
+
+![Laravel-Lang Art](logotypes/social.svg)
