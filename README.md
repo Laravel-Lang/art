@@ -1,3 +1,3 @@
 # Laravel-Lang
 
-![Laravel-Lang Art](logotypes/social.svg)
+![Laravel-Lang Art](socials/minimal.png)
